@@ -4,3 +4,5 @@ Git training repository
 ## Introduction
 
 ## Purpose
+
+## Deployment
