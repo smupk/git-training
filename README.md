@@ -2,6 +2,7 @@
 Git training repository
 
 ## Introduction
+A simple project to learn git.
 
 ## Purpose
 
