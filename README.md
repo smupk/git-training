@@ -5,5 +5,6 @@ Git training repository
 A simple project to learn git.
 
 ## Purpose
+Another description.
 
 ## Deployment
