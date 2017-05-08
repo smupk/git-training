@@ -11,3 +11,6 @@ Another description.
 More descriptions!
 
 Deployment can be whatever you want.
+
+## Copyright
+Samu 2017
