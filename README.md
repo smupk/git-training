@@ -8,3 +8,6 @@ A simple project to learn git.
 Another description.
 
 ## Deployment
+More descriptions!
+
+Deployment can be whatever you want.
