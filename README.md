@@ -4,7 +4,7 @@ Git training repository
 ## Introduction
 A simple project to learn git.
 
-This is just more text to have more text.
+This is just more text to have more text. This is even more text!
 
 ## Purpose
 Another description.
