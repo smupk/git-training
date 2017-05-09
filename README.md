@@ -20,4 +20,4 @@ More descriptions!
 Deployment can be whatever you want.
 
 ## Copyright
-Samu 2017
+Samu Kotilahti 2017. All rights reserved.
