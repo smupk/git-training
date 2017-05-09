@@ -16,15 +16,16 @@ This is just more text to have more text. This is even more text!
 
 ## Purpose
 Another description.
-
+skabfjksdnkfjndsknfjdsbhfdsksadkj
 Now we are testing automatic merging from another branch.
 
-This text is added for setting up rebasing conflicts.
+This text is addesadsdoaisdijsafbsdfsd for setting up rebasing conflicts.
 
 ## Deployment
 More descriptions!
-
+dsfkdskhfkdshkfds
 Deployment can be whatever you want.
 
-## Copyright
+## Copyrigdfsfdsknfdksnflsf
+dsfdsfdksjfkjdsnfht
 Samu 2017
