@@ -11,6 +11,8 @@ Another description.
 
 Now we are testing automatic merging from another branch.
 
+This text is added for setting up rebasing conflicts.
+
 ## Deployment
 More descriptions!
 
