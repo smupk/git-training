@@ -1,5 +1,5 @@
 # Git-training
-Git training repository
+Git training repository. This change was made by another developer.
 
 ## Introduction
 
