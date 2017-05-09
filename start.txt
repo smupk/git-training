@@ -1,3 +1,5 @@
 Testing the branching!
 
+Now testing rebase. This is just some dummy text that has nothing to do with anything. :)
+
 Copyright Samu 2017
