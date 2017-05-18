@@ -2,4 +2,6 @@ Testing the branching!
 
 Now testing rebase. This is just some dummy text that has nothing to do with anything. :)
 
+Some text for stashing. more unimportant text.
+
 Copyright Samu 2017
